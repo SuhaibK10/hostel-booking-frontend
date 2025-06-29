@@ -41,15 +41,14 @@ export default function Home() {
         <div className="max-w-4xl text-center space-y-20">
           <h2 className="text-5xl lg:text-9xl font-bold mb-6">
             Aligarh&apos;s <br />
-            City Hostels
+            PG
           </h2>
           <p className="text-lg mb-8">
             We have <span className="font-semibold">private rooms</span>, we
             have <span className="font-semibold">dorms</span>, we have{" "}
-            <span className="font-semibold">guest kitchens</span>, we have{" "}
             <span className="font-semibold">study environment</span>...{" "}
             <span className="font-bold">but above all: we have the vibe</span>.
-            Wombat&apos;s City Hostels are the right place to{" "}
+            Aligarh&apos;s City PG are the right place to{" "}
             <span className="font-semibold">
               meet people from around the world
             </span>
